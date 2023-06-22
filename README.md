@@ -1,2 +1,2 @@
-# LFG-Credit_Analiser
+# LFG: Credit Analiser
 Technique challenge for DigitalSysTecnologia
